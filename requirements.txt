@@ -7,3 +7,4 @@ pandas==2.2.2
 plotly==5.24.0
 python-dotenv==1.0.1
 streamlit==1.35.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
